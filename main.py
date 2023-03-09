@@ -1,6 +1,4 @@
 def twoSum(nums, target)
-	nums = [*map(int,input().split())]
-	
-
-
+	if i in nums + j in nums == target
+	print(nums[i], nums[j])
 return None
